@@ -6,6 +6,8 @@
 //  Copyright © 2019 shun.sasaki. All rights reserved.
 //
 
+
+//Modelの定義
 import UIKit
 import IGListKit
 
